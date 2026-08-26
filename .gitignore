@@ -64,8 +64,8 @@ docs/_build/
 docs/.vitepress/cache/
 # Playwright截图目录
 playwright-screenshots/
-WHartTest_Django/chat_history.sqlite-shm
-WHartTest_Django/chat_history.sqlite-wal
+QATech_Django/chat_history.sqlite-shm
+QATech_Django/chat_history.sqlite-wal
 .gemini/settings.json
-WHartTest_Actuator/browsers/
-WHartTest_Django/celerybeat-schedule
+QATech_Actuator/browsers/
+QATech_Django/celerybeat-schedule
